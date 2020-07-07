@@ -7,7 +7,7 @@
 	- TCP_server
 	- Netcat_using_python
 	- TCP_reverse_shell
-	  * client
-  	  * Server
+	  * client side
+  	  * Server side
   
 ***
